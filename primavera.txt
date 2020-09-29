@@ -1,5 +1,7 @@
-soleado y alergias
-tiempo de otoño
+﻿soleado y alergias
+tiempo de otoÃ±o
 ganas de verano
-Vacaciones de fin de a�o
+Vacaciones de fin de año
 Vacaciones de diciembre
+Incidencia en registro de vacaciones
+Corregido error de vacaciones diciembre
